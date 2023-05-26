@@ -1,0 +1,11 @@
+C:\Code\AncientAttributeUI\obj\Release\net472\AncientAttributeUI.csproj.AssemblyReference.cache
+C:\Code\AncientAttributeUI\obj\Release\net472\AncientAttributeUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\AncientAttributeUI\obj\Release\net472\AncientAttributeUI.AssemblyInfoInputs.cache
+C:\Code\AncientAttributeUI\obj\Release\net472\AncientAttributeUI.AssemblyInfo.cs
+C:\Code\AncientAttributeUI\obj\Release\net472\AncientAttributeUI.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\觅长生\BepInEx\plugins\AcientAttributeUI\AncientAttributeUI.dll
+D:\SteamLibrary\steamapps\common\觅长生\BepInEx\plugins\AcientAttributeUI\AncientAttributeUI.pdb
+C:\Code\AncientAttributeUI\obj\Release\net472\AncientAttributeUI.dll
+C:\Code\AncientAttributeUI\obj\Release\net472\AncientAttributeUI.pdb
+D:\SteamLibrary\steamapps\common\觅长生\本地Mod测试\AcientAttributeUI\Plugins\Ancient\AncientAttributeUI.dll
+D:\SteamLibrary\steamapps\common\觅长生\本地Mod测试\AcientAttributeUI\Plugins\Ancient\AncientAttributeUI.pdb

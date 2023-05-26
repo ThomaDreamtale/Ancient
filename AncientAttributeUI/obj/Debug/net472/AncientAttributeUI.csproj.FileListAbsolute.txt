@@ -1,0 +1,9 @@
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\bin\Debug\net472\AncientAttributeUI.dll
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\bin\Debug\net472\AncientAttributeUI.pdb
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\obj\Debug\net472\AncientAttributeUI.csproj.AssemblyReference.cache
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\obj\Debug\net472\AncientAttributeUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\obj\Debug\net472\AncientAttributeUI.AssemblyInfoInputs.cache
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\obj\Debug\net472\AncientAttributeUI.AssemblyInfo.cs
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\obj\Debug\net472\AncientAttributeUI.csproj.CoreCompileInputs.cache
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\obj\Debug\net472\AncientAttributeUI.dll
+E:\C#工程\AncientAttributeUI2\AncientAttributeUI\obj\Debug\net472\AncientAttributeUI.pdb
